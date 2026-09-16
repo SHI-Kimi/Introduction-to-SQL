@@ -33,4 +33,5 @@ What I did, in order to solve this problem, was to:
 
 
 2. **Adapt the code to the real database.**
+
    Once I fetched the right correlated subquery that worked on the smaller alternative database, I adapted it to the real database.
