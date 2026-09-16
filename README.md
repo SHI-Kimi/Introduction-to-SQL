@@ -1,4 +1,5 @@
 An example of the use of subqueries in SQL.
+
 In this code, I try to solve a problem that's given by Claude in a prompt I wrote.
 The context is the following : 
     I have a database of AAPL's stock prices between 2016-09-08 and 2021-09-07 (YYY-MM-DD).
